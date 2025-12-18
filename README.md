@@ -1,1 +1,6 @@
-# CS-250
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+Having an understanding of what the end user wants implemented in the project is the most important piece of development. Utilizing user stories is the most effective way as it is a form the end user fills out highlighting what they want in the project and assign an importance to each story.
+How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+I will approach development far differently now as the planning process isn't going to be viewed as the most important step, instead, having a more flexible approach to development is far easier as responses to customer feedback can be implemented quicker. User stories, Daily Scrums, and maintaining smaller teams are all development techniques that will speed up development times and deliver better end products.
+What does it mean to be a good team member in software development?
+A good team member knows and understands their role on the team. They are willing to assist others and have great communication with the rest of the team. They are punctual and collaborate well. A good team member listens and voices concerns where they arise.
